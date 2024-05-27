@@ -1,5 +1,4 @@
 # Grass Craft
- 'Grass Craft' is my ten game made with unity (Oculus)
 
 Hello!
 
