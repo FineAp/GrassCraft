@@ -45,4 +45,6 @@ Experience the charm of glassblowing and enjoy the opportunity to practice safel
 Learn glassblowing in various environments, enhance your skills, and experience a new dimension of VR education. 
 Join 'Grass Craft' and explore the world of glassblowing!
 
+Play Video: https://youtu.be/KCpaHsqz6vw
+
 ![스크린샷 2024-05-22 155406](https://github.com/FineAp/GrassCraft/assets/143973266/546bf98e-3b6f-493a-ab5a-a431c16fdc38)
